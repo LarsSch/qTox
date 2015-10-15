@@ -1,0 +1,19 @@
+Title qTox
+Version 1.0
+Description A New Kind of Instant Messaging
+
+With the rise of government monitoring programs, Tox provides an easy to use application that allows you to connect with friends and family without anyone else listening in. While other big-name services require you to pay for features, Tox is totally free and comes without advertising.
+DefaultLocation /Applications
+DeleteWarning 
+
+### Package Flags
+
+NeedsAuthorization NO
+Required NO
+Relocatable YES
+RequiresReboot NO
+UseUserMask NO
+OverwritePermissions NO
+AllowBackRev YES
+RootVolumeOnly NO
+OnlyUpdateInstalledLanguages NO
