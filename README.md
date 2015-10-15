@@ -14,7 +14,7 @@ qTox
   - [**binary**](#) - Currently unmaintained
   - [**packages**](/INSTALL.md#simple-install)
   - [**Gentoo overlay**](https://github.com/Tox/gentoo-overlay-tox)
-* **Mac**: [**download**](#) - Currently unmaintained<br/>
+* **Mac**: [**download**](https://github.com/LarsSch/qTox/tree/master/binary%20-%20downloads) - semi maintained<br/>
 
 
 <h4>Screenshots</h4>
